@@ -44,3 +44,6 @@ D:\MobiClick\MobiClick\obj\x86\Debug\MobiClick.pdb
 D:\01.woobinsoft project\.net project\MobiClick\bin\Debug\MobiClick.exe.config
 D:\01.woobinsoft project\.net project\MobiClick\obj\x86\Debug\MobiClick.exe
 D:\01.woobinsoft project\.net project\MobiClick\obj\x86\Debug\MobiClick.pdb
+D:\GitRepository\WoobinsoftProject\MobiClick\bin\Debug\MobiClick.exe.config
+D:\GitRepository\WoobinsoftProject\MobiClick\obj\x86\Debug\MobiClick.exe
+D:\GitRepository\WoobinsoftProject\MobiClick\obj\x86\Debug\MobiClick.pdb
