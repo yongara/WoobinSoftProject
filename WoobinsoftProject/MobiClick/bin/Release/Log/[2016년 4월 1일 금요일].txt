@@ -1,6 +1,0 @@
-[ 오후 8:21:48 : 321 ]AutoJob_BackGroundWorker2
-Unable to find element with xpath == //a[contains(@href,'page=14&&start=191&display=15')]
-[ 오후 8:23:42 : 190 ]AutoJob_BackGroundWorker2
-Unable to get browser
-[ 오후 8:23:48 : 271 ]AutoJob_BackGroundWorker2
-스레드가 중단되었습니다.

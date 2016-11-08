@@ -1,4 +1,0 @@
-[ 오후 11:04:28 : 78 ]AutoJob_BackGroundWorker2
-스레드가 중단되었습니다.
-[ 오후 11:04:53 : 334 ]AutoJob_BackGroundWorker2
-스레드가 중단되었습니다.
