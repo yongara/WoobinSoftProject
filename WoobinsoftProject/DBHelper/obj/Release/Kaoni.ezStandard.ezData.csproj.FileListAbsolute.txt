@@ -1,0 +1,7 @@
+D:\KT_참조\KTGroup참조\Kaoni.ezStandard.ezData.dll
+D:\KT_Group_New\KT_ClassLib\Kaoni.ezStandard.ezData\obj\Release\ResolveAssemblyReference.cache
+D:\KT_Group_New\KT_ClassLib\Kaoni.ezStandard.ezData\obj\Release\Kaoni.ezStandard.ezData.Controls.SQLConnectionSetupControl.resources
+D:\KT_Group_New\KT_ClassLib\Kaoni.ezStandard.ezData\obj\Release\Kaoni.ezStandard.ezData.csproj.GenerateResource.Cache
+D:\KT_Group_New\KT_ClassLib\Kaoni.ezStandard.ezData\obj\Release\Kaoni.ezStandard.ezData.dll
+D:\KT_Group_New\KT_ClassLib\Kaoni.ezStandard.ezData\obj\Release\Kaoni.ezStandard.ezData.pdb
+D:\KT_참조\KTGroup참조\Kaoni.ezStandard.ezData.pdb

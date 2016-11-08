@@ -1,0 +1,14 @@
+D:\Project Source\MobiClick\MobiClickManager\bin\Debug\MobiClickManager.exe
+D:\Project Source\MobiClick\MobiClickManager\bin\Debug\MobiClickManager.pdb
+D:\Project Source\MobiClick\MobiClickManager\obj\x86\Debug\MobiClickManager.Properties.Resources.resources
+D:\Project Source\MobiClick\MobiClickManager\obj\x86\Debug\MobiClickManager.csproj.GenerateResource.Cache
+D:\Project Source\MobiClick\MobiClickManager\obj\x86\Debug\MobiClickManager.exe
+D:\Project Source\MobiClick\MobiClickManager\obj\x86\Debug\MobiClickManager.pdb
+D:\Project Source\MobiClick\MobiClickManager\obj\x86\Debug\MobiClickManager.csprojResolveAssemblyReference.cache
+D:\Project Source\MobiClick\MobiClickManager\obj\x86\Debug\MobiClickManager.frmManagerMain.resources
+D:\Project Source\MobiClick\MobiClickManager\obj\x86\Debug\MobiClickManager.ucProductInfo.resources
+D:\Project Source\MobiClick\MobiClickManager\obj\x86\Debug\MobiClickManager.ucUserAgent.resources
+D:\Project Source\MobiClick\MobiClickManager\obj\x86\Debug\MobiClickManager.ucUserInfo.resources
+D:\Project Source\MobiClick\MobiClickManager\bin\Debug\MobiClickManager.exe.config
+D:\Project Source\MobiClick\MobiClickManager\bin\Debug\DBHelper.dll
+D:\Project Source\MobiClick\MobiClickManager\bin\Debug\DBHelper.pdb

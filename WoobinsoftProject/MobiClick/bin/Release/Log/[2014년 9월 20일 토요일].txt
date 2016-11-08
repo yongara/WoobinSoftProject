@@ -1,0 +1,8 @@
+[ 오전 12:14:20 : 111 ]AutoJob_BackGroundWorker2
+A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:62127/session. The status of the exception was ReceiveFailure, and the message was: 기본 연결이 닫혔습니다. 받기에서 예기치 않은 오류가 발생했습니다.
+[ 오후 2:00:00 : 459 ]AutoJob_BackGroundWorker2
+스레드가 중단되었습니다.
+[ 오후 2:07:24 : 34 ]AutoJob_BackGroundWorker2
+스레드가 중단되었습니다.
+[ 오후 2:32:30 : 573 ]client_DownloadFileCompleted
+WebClient를 요청하는 동안 예외가 발생했습니다.

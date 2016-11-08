@@ -1,0 +1,6 @@
+E:\PeoplesWebProject\WebSample1\WebSample1\bin\WebSample1.dll
+E:\PeoplesWebProject\WebSample1\WebSample1\bin\WebSample1.pdb
+E:\PeoplesWebProject\WebSample1\WebSample1\obj\Debug\WebSample1.dll
+E:\PeoplesWebProject\WebSample1\WebSample1\obj\Debug\WebSample1.pdb
+E:\PeoplesWebProject\WebSample1\WebSample1\obj\Debug\WebSample1.csprojResolveAssemblyReference.cache
+E:\PeoplesWebProject\WebSample1\WebSample1\bin\SQLHelper.pdb

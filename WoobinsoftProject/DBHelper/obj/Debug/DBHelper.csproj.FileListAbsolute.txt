@@ -1,0 +1,36 @@
+C:\Users\용천\Desktop\Kaoni.ezStandard.ezData\bin\Debug\Kaoni.ezStandard.ezData.dll
+C:\Users\용천\Desktop\Kaoni.ezStandard.ezData\bin\Debug\Kaoni.ezStandard.ezData.pdb
+C:\Users\용천\Desktop\Kaoni.ezStandard.ezData\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\용천\Desktop\Kaoni.ezStandard.ezData\obj\Debug\DBHelper.Controls.SQLConnectionSetupControl.resources
+C:\Users\용천\Desktop\Kaoni.ezStandard.ezData\obj\Debug\DBHelper.csproj.GenerateResource.Cache
+C:\Users\용천\Desktop\Kaoni.ezStandard.ezData\obj\Debug\Kaoni.ezStandard.ezData.dll
+C:\Users\용천\Desktop\Kaoni.ezStandard.ezData\obj\Debug\Kaoni.ezStandard.ezData.pdb
+C:\Users\용천\Desktop\DBHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\용천\Desktop\DBHelper\obj\Debug\DBHelper.Controls.SQLConnectionSetupControl.resources
+C:\Users\용천\Desktop\DBHelper\obj\Debug\DBHelper.csproj.GenerateResource.Cache
+C:\Users\용천\Desktop\DBHelper\bin\Debug\DBHelper.dll
+C:\Users\용천\Desktop\DBHelper\bin\Debug\DBHelper.pdb
+C:\Users\용천\Desktop\DBHelper\obj\Debug\DBHelper.dll
+C:\Users\용천\Desktop\DBHelper\obj\Debug\DBHelper.pdb
+D:\DBHelper\bin\Debug\DBHelper.dll
+D:\DBHelper\bin\Debug\DBHelper.pdb
+D:\DBHelper\obj\Debug\ResolveAssemblyReference.cache
+D:\DBHelper\obj\Debug\DBHelper.Controls.SQLConnectionSetupControl.resources
+D:\DBHelper\obj\Debug\DBHelper.csproj.GenerateResource.Cache
+D:\DBHelper\obj\Debug\DBHelper.dll
+D:\DBHelper\obj\Debug\DBHelper.pdb
+D:\Project Source\MobiClick\DBHelper\bin\Debug\DBHelper.dll
+D:\Project Source\MobiClick\DBHelper\bin\Debug\DBHelper.pdb
+D:\Project Source\MobiClick\DBHelper\obj\Debug\DBHelper.Controls.SQLConnectionSetupControl.resources
+D:\Project Source\MobiClick\DBHelper\obj\Debug\DBHelper.dll
+D:\Project Source\MobiClick\DBHelper\obj\Debug\DBHelper.pdb
+D:\Project Source\MobiClick\DBHelper\obj\Debug\ResolveAssemblyReference.cache
+D:\Project Source\MobiClick\DBHelper\obj\Debug\ResGen.read.1.tlog
+D:\Project Source\MobiClick\DBHelper\obj\Debug\ResGen.write.1.tlog
+D:\MobiClick\DBHelper\bin\Debug\DBHelper.dll
+D:\MobiClick\DBHelper\bin\Debug\DBHelper.pdb
+D:\MobiClick\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache
+D:\MobiClick\DBHelper\obj\Debug\DBHelper.Controls.SQLConnectionSetupControl.resources
+D:\MobiClick\DBHelper\obj\Debug\DBHelper.csproj.GenerateResource.Cache
+D:\MobiClick\DBHelper\obj\Debug\DBHelper.dll
+D:\MobiClick\DBHelper\obj\Debug\DBHelper.pdb

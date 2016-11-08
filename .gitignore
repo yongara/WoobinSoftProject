@@ -1,0 +1,9 @@
+# git ignore file
+*.class
+bin/
+gen/
+.setting/
+.metadata
+.metadata/
+.metadata/*
+*/.metadata/

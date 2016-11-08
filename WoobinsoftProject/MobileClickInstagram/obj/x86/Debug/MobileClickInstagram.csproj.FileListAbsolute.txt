@@ -1,0 +1,24 @@
+D:\MobiClick\MobileClickInstagram\bin\Debug\MobileClickInstagram.exe
+D:\MobiClick\MobileClickInstagram\bin\Debug\MobileClickInstagram.pdb
+D:\MobiClick\MobileClickInstagram\bin\Debug\WebDriver.dll
+D:\MobiClick\MobileClickInstagram\bin\Debug\WebDriver.Support.dll
+D:\MobiClick\MobileClickInstagram\obj\x86\Debug\MobileClickInstagram.frmMain.resources
+D:\MobiClick\MobileClickInstagram\obj\x86\Debug\MobileClickInstagram.Properties.Resources.resources
+D:\MobiClick\MobileClickInstagram\obj\x86\Debug\MobileClickInstagram.exe
+D:\MobiClick\MobileClickInstagram\obj\x86\Debug\MobileClickInstagram.pdb
+D:\MobiClick\MobileClickInstagram\bin\Debug\MobileClickInstagram.exe.config
+D:\MobiClick\MobileClickInstagram\obj\x86\Debug\MobileClickInstagram.frmUserRegister.resources
+D:\MobiClick\MobileClickInstagram\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MobiClick\MobileClickInstagram\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MobiClick\MobileClickInstagram\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\01.woobinsoft project\.net project\MobileClickInstagram\bin\Debug\MobileClickInstagram.exe.config
+D:\01.woobinsoft project\.net project\MobileClickInstagram\bin\Debug\MobileClickInstagram.exe
+D:\01.woobinsoft project\.net project\MobileClickInstagram\bin\Debug\MobileClickInstagram.pdb
+D:\01.woobinsoft project\.net project\MobileClickInstagram\bin\Debug\WebDriver.dll
+D:\01.woobinsoft project\.net project\MobileClickInstagram\bin\Debug\WebDriver.Support.dll
+D:\01.woobinsoft project\.net project\MobileClickInstagram\obj\x86\Debug\MobileClickInstagram.frmMain.resources
+D:\01.woobinsoft project\.net project\MobileClickInstagram\obj\x86\Debug\MobileClickInstagram.frmUserRegister.resources
+D:\01.woobinsoft project\.net project\MobileClickInstagram\obj\x86\Debug\MobileClickInstagram.Properties.Resources.resources
+D:\01.woobinsoft project\.net project\MobileClickInstagram\obj\x86\Debug\MobileClickInstagram.csproj.GenerateResource.Cache
+D:\01.woobinsoft project\.net project\MobileClickInstagram\obj\x86\Debug\MobileClickInstagram.exe
+D:\01.woobinsoft project\.net project\MobileClickInstagram\obj\x86\Debug\MobileClickInstagram.pdb

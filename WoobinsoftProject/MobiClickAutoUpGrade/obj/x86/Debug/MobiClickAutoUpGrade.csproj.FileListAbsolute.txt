@@ -1,0 +1,8 @@
+D:\MobiClick\MobiClickAutoUpGrade\bin\Debug\MobiClickAutoUpGrade.exe
+D:\MobiClick\MobiClickAutoUpGrade\bin\Debug\MobiClickAutoUpGrade.pdb
+D:\MobiClick\MobiClickAutoUpGrade\obj\x86\Debug\MobiClickAutoUpGrade.csprojResolveAssemblyReference.cache
+D:\MobiClick\MobiClickAutoUpGrade\obj\x86\Debug\MobiClickAutoUpGrade.frmMain.resources
+D:\MobiClick\MobiClickAutoUpGrade\obj\x86\Debug\MobiClickAutoUpGrade.Properties.Resources.resources
+D:\MobiClick\MobiClickAutoUpGrade\obj\x86\Debug\MobiClickAutoUpGrade.csproj.GenerateResource.Cache
+D:\MobiClick\MobiClickAutoUpGrade\obj\x86\Debug\MobiClickAutoUpGrade.exe
+D:\MobiClick\MobiClickAutoUpGrade\obj\x86\Debug\MobiClickAutoUpGrade.pdb

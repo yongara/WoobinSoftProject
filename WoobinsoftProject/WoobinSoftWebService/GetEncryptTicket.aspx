@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="GetEncryptTicket.aspx.cs" Inherits="GetEncryptTicket" %>

@@ -1,0 +1,16 @@
+D:\Project Source\MobiClick\MobiClickAutoUpGrade\bin\Release\MobiClickAutoUpGrade.exe
+D:\Project Source\MobiClick\MobiClickAutoUpGrade\bin\Release\MobiClickAutoUpGrade.pdb
+D:\Project Source\MobiClick\MobiClickAutoUpGrade\obj\x86\Release\MobiClickAutoUpGrade.frmMain.resources
+D:\Project Source\MobiClick\MobiClickAutoUpGrade\obj\x86\Release\MobiClickAutoUpGrade.Properties.Resources.resources
+D:\Project Source\MobiClick\MobiClickAutoUpGrade\obj\x86\Release\MobiClickAutoUpGrade.csproj.GenerateResource.Cache
+D:\Project Source\MobiClick\MobiClickAutoUpGrade\obj\x86\Release\MobiClickAutoUpGrade.exe
+D:\Project Source\MobiClick\MobiClickAutoUpGrade\obj\x86\Release\MobiClickAutoUpGrade.pdb
+D:\MobiClick\MobiClickAutoUpGrade\bin\Release\MobiClickAutoUpGrade.exe
+D:\MobiClick\MobiClickAutoUpGrade\bin\Release\MobiClickAutoUpGrade.pdb
+D:\MobiClick\MobiClickAutoUpGrade\obj\x86\Release\ResolveAssemblyReference.cache
+D:\MobiClick\MobiClickAutoUpGrade\obj\x86\Release\MobiClickAutoUpGrade.frmMain.resources
+D:\MobiClick\MobiClickAutoUpGrade\obj\x86\Release\MobiClickAutoUpGrade.Properties.Resources.resources
+D:\MobiClick\MobiClickAutoUpGrade\obj\x86\Release\ResGen.read.1.tlog
+D:\MobiClick\MobiClickAutoUpGrade\obj\x86\Release\ResGen.write.1.tlog
+D:\MobiClick\MobiClickAutoUpGrade\obj\x86\Release\MobiClickAutoUpGrade.exe
+D:\MobiClick\MobiClickAutoUpGrade\obj\x86\Release\MobiClickAutoUpGrade.pdb

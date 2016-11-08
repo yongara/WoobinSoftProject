@@ -1,0 +1,6 @@
+[ 오전 8:37:01 : 374 ]client_DownloadFileCompleted
+WebClient를 요청하는 동안 예외가 발생했습니다.
+[ 오전 8:54:21 : 396 ]AutoJob_BackGroundWorker2
+스레드가 중단되었습니다.
+[ 오전 8:57:27 : 115 ]AutoJob_BackGroundWorker
+스레드가 중단되었습니다.

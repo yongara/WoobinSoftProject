@@ -1,0 +1,391 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WatiNSahi</name>
+    </assembly>
+    <members>
+        <member name="M:WatiNSahi.Extensions.BrowserExtensions.FireJSEventByParameters``1(WatiN.Core.Browser,System.String[])">
+            <summary>
+            Fires JS Event. Note: jQuery may be required to fire selected event.
+            </summary>
+            <typeparam name="TJSEvent">JS Event</typeparam>
+            <param name="browser">Browser</param>
+            <param name="parameters">Event parameters</param>
+        </member>
+        <member name="M:WatiNSahi.Extensions.BrowserExtensions.FireJSEvent``1(WatiN.Core.Browser,System.String)">
+            <summary>
+            Fires JS Event. Note: jQuery may be required to fire selected event.
+            </summary>
+            <typeparam name="TJSEvent">JS Event</typeparam>
+            <param name="browser">Browser</param>
+            <param name="elementId">ID of the element on which event will be fired</param>
+        </member>
+        <member name="M:WatiNSahi.Extensions.BrowserExtensions.FireJSEventByClass``1(WatiN.Core.Browser,System.String)">
+            <summary>
+            Fires JS Event. Note: jQuery may be required to fire selected event.
+            </summary>
+            <typeparam name="TJSEvent">JS Event</typeparam>
+            <param name="browser">Browser</param>
+            <param name="elementClass">Class of the element on which event will be fired</param>
+        </member>
+        <member name="M:WatiNSahi.Extensions.BrowserExtensions.SetTextUsingJS(WatiN.Core.Browser,System.String,System.String)">
+            <summary>
+            Evaluates "jQuery('#textFieldId').val('text');". Note: jQuery is required to fire selected event.
+            </summary>
+            <param name="browser"></param>
+            <param name="textFieldId"></param>
+            <param name="text"></param>
+        </member>
+        <member name="M:WatiNSahi.Extensions.BrowserExtensions.SetTextByClassUsingJS(WatiN.Core.Browser,System.String,System.String)">
+            <summary>
+            Evaluates "jQuery('.textFieldClass').val('text');". Note: jQuery is required to fire selected event.
+            </summary>
+            <param name="browser"></param>
+            <param name="textFieldClass"></param>
+            <param name="text"></param>
+        </member>
+        <member name="M:WatiNSahi.Extensions.BrowserExtensions.GetByXPath``1(WatiN.Core.Browser,System.String)">
+            <summary>
+            Get element by its XPath.
+            </summary>
+            <typeparam name="TElement">Element</typeparam>
+            <param name="browser">Browser</param>
+            <param name="xpath">Xpath</param>
+            <returns>Element identified by <paramref name="xpath"/></returns>
+        </member>
+        <member name="M:WatiNSahi.Extensions.ElementContainerExtensions.GetText(WatiN.Core.IElementContainer,WatiN.Core.Constraints.Constraint)">
+            <summary>
+            Gets TextField text
+            </summary>
+            <param name="container">Container</param>
+            <param name="constraint">Constraint by which TextField will be searched</param>
+            <returns>TextField text</returns>
+        </member>
+        <member name="M:WatiNSahi.Extensions.ElementContainerExtensions.GetText(WatiN.Core.IElementContainer,System.String)">
+            <summary>
+            Gets TextField text
+            </summary>
+            <param name="container">Container</param>
+            <param name="textFieldIdOrNameOrValueOrClassOrLabel">ID/Name/Value by which TextField will be searched</param>
+            <returns>TextField text</returns>
+        </member>
+        <member name="M:WatiNSahi.Extensions.ElementContainerExtensions.SetText(WatiN.Core.IElementContainer,WatiN.Core.Constraints.Constraint,System.String,System.Boolean)">
+            <summary>
+            Sets TextField text
+            </summary>
+            <param name="container">Container</param>
+            <param name="constraint">Constraint by which TextField will be searched</param>
+            <param name="text">New TextField text</param>
+            <param name="append">(Optional) Append text?</param>
+        </member>
+        <member name="M:WatiNSahi.Extensions.ElementContainerExtensions.SetText(WatiN.Core.IElementContainer,System.String,System.String,System.Boolean)">
+            <summary>
+            Sets TextField text
+            </summary>
+            <param name="container">Container</param>
+            <param name="textFieldIdOrNameOrValueOrClassOrLabel">ID/Name/Value by which TextField will be searched</param>
+            <param name="text">New TextField text</param>
+            <param name="append">(Optional) Append text?</param>
+        </member>
+        <member name="M:WatiNSahi.Extensions.ElementContainerExtensions.SetTextByClass(WatiN.Core.IElementContainer,System.String,System.String,System.Boolean)">
+            <summary>
+            Sets TextField text
+            </summary>
+            <param name="container">Container</param>
+            <param name="textFieldClass">CSS Class by which TextField will be searched</param>
+            <param name="text">New TextField text</param>
+            <param name="append">(Optional) Append text?</param>
+        </member>
+        <member name="M:WatiNSahi.Extensions.ElementContainerExtensions.SetTextByText(WatiN.Core.IElementContainer,System.String,System.String,System.Boolean)">
+            <summary>
+            Sets TextField text
+            </summary>
+            <param name="container">Container</param>
+            <param name="textFieldText">Text by which TextField will be searched</param>
+            <param name="text">New TextField text</param>
+            <param name="append">(Optional) Append text?</param>
+        </member>
+        <member name="M:WatiNSahi.Extensions.ElementContainerExtensions.TypeText(WatiN.Core.IElementContainer,WatiN.Core.Constraints.Constraint,System.String,System.Boolean)">
+            <summary>
+            Types text in a TextField
+            </summary>
+            <param name="container">Container</param>
+            <param name="constraint">Constraint by which TextField will be searched</param>
+            <param name="text">New TextField text</param>
+            <param name="append">(Optional) Append text?</param>
+        </member>
+        <member name="M:WatiNSahi.Extensions.ElementContainerExtensions.TypeText(WatiN.Core.IElementContainer,System.String,System.String,System.Boolean)">
+            <summary>
+            Types text in a TextField
+            </summary>
+            <param name="container">Container</param>
+            <param name="textFieldIdOrNameOrValueOrClassOrLabel">ID/Name/Value by which TextField will be searched</param>
+            <param name="text">New TextField text</param>
+            <param name="append">(Optional) Append text?</param>
+        </member>
+        <member name="M:WatiNSahi.Extensions.ElementContainerExtensions.TypeTextByClass(WatiN.Core.IElementContainer,System.String,System.String,System.Boolean)">
+            <summary>
+            Types text in a TextField
+            </summary>
+            <param name="container">Container</param>
+            <param name="textFieldClass">CSS Class by which TextField will be searched</param>
+            <param name="text">New TextField text</param>
+            <param name="append">(Optional) Append text?</param>
+        </member>
+        <member name="M:WatiNSahi.Extensions.ElementContainerExtensions.TypeTextByText(WatiN.Core.IElementContainer,System.String,System.String,System.Boolean)">
+            <summary>
+            Types text in a TextField
+            </summary>
+            <param name="container">Container</param>
+            <param name="textFieldText">Text by which TextField will be searched</param>
+            <param name="text">New TextField text</param>
+            <param name="append">(Optional) Append text?</param>
+        </member>
+        <member name="M:WatiNSahi.Extensions.ElementContainerExtensions.SelectValue(WatiN.Core.IElementContainer,WatiN.Core.Constraints.Constraint,System.String)">
+            <summary>
+            Selects SelectList value
+            </summary>
+            <param name="container">Container</param>
+            <param name="constraint">Constraint by which SelectList will be searched</param>
+            <param name="value">Value of the element that will be selected</param>
+        </member>
+        <member name="M:WatiNSahi.Extensions.ElementContainerExtensions.SelectValue(WatiN.Core.IElementContainer,System.String,System.String)">
+            <summary>
+            Selects SelectList value
+            </summary>
+            <param name="container">Container</param>
+            <param name="selectListIdOrNameOrValueOrClassOrLabel">ID/Name/Value by which SelectList will be searched</param>
+            <param name="value">Value of the element that will be selected</param>
+        </member>
+        <member name="M:WatiNSahi.Extensions.ElementContainerExtensions.SelectValueByText(WatiN.Core.IElementContainer,WatiN.Core.Constraints.Constraint,System.String)">
+            <summary>
+            Selects SelectList value
+            </summary>
+            <param name="container">Container</param>
+            <param name="constraint">Constraint by which SelectList will be searched</param>
+            <param name="text">Text of the element that will be selected</param>
+        </member>
+        <member name="M:WatiNSahi.Extensions.ElementContainerExtensions.SelectValueByText(WatiN.Core.IElementContainer,System.String,System.String)">
+            <summary>
+            Selects SelectList value
+            </summary>
+            <param name="container">Container</param>
+            <param name="selectListIdOrNameOrValueOrClassOrLabel">ID/Name/Value by which SelectList will be searched</param>
+            <param name="text">Text of the element that will be selected</param>
+        </member>
+        <member name="M:WatiNSahi.Extensions.ElementContainerExtensions.Check(WatiN.Core.IElementContainer,System.String,System.Boolean)">
+            <summary>
+            Checks CheckBox
+            </summary>
+            <param name="container">Container</param>
+            <param name="radioCheckIdOrNameOrValueOrClassOrLabel">ID/Name/Value by which CheckBox will be searched</param>
+            <param name="check">New check status of the CheckBox</param>
+        </member>
+        <member name="M:WatiNSahi.Extensions.ElementContainerExtensions.Check(WatiN.Core.IElementContainer,WatiN.Core.Constraints.Constraint,System.Boolean)">
+            <summary>
+            Checks CheckBox or RadioButton
+            </summary>
+            <param name="container">Container</param>
+            <param name="constraint">Constraint by which CheckBox will be searched</param>
+            <param name="check">New check status of the CheckBox or RadioButton</param>
+        </member>
+        <member name="M:WatiNSahi.Extensions.ElementContainerExtensions.CheckByClass(WatiN.Core.IElementContainer,System.String,System.Boolean)">
+            <summary>
+            Checks CheckBox or RadioButton
+            </summary>
+            <param name="container">Container</param>
+            <param name="radioCheckClass">CSS Class by which CheckBox will be searched</param>
+            <param name="check">New check status of the CheckBox or RadioButton</param>
+        </member>
+        <member name="P:WatiNSahi.Extensions.IJSEvent.ById">
+            <summary>
+            Gets JS Function that will be fired with only one parameter: elementId. Example: "jQuery('#{0}').click();"
+            </summary>
+        </member>
+        <member name="P:WatiNSahi.Extensions.IJSEvent.ByClass">
+            <summary>
+            Gets JS Function that will be fired with only one parameter: elementClass. Example: "jQuery('.{0}').click();"
+            </summary>
+        </member>
+        <member name="P:WatiNSahi.Extensions.IJSEvent.ByParameters">
+            <summary>
+            Gets JS Function that will be fired with user specified number of parameters
+            </summary>
+        </member>
+        <member name="P:WatiNSahi.Extensions.ExtensionsSettings.Assert">
+            <summary>
+            Gets or sets a value indicating whether extension methods should assert element existance or not. Default: true
+            </summary>
+        </member>
+        <member name="M:WatiNSahi.WatiNSahiTest.FireJSEventByParameters``1(System.String[])">
+            <summary>
+            Fires JS Event. Note: jQuery may be required to fire selected event.
+            </summary>
+            <typeparam name="TJSEvent">JS Event</typeparam>
+            <param name="parameters">Event parameters</param>
+        </member>
+        <member name="M:WatiNSahi.WatiNSahiTest.FireJSEvent``1(System.String)">
+            <summary>
+            Fires JS Event using Browser as a IElementContainer. Note: jQuery is required to fire selected event.
+            </summary>
+            <typeparam name="TJSEvent">JS Event</typeparam>
+            <param name="elementId">ID of the element on which event will be fired</param>
+        </member>
+        <member name="M:WatiNSahi.WatiNSahiTest.FireJSEventByClass``1(System.String)">
+            <summary>
+            Fires JS Event using Browser as a IElementContainer. Note: jQuery is required to fire selected event.
+            </summary>
+            <typeparam name="TJSEvent">JS Event</typeparam>
+            <param name="elementClass">Class of the element on which event will be fired</param>
+        </member>
+        <member name="M:WatiNSahi.WatiNSahiTest.GetText(WatiN.Core.Constraints.Constraint)">
+            <summary>
+            Gets TextField text using Browser as a IElementContainer
+            </summary>
+            <param name="constraint">Constraint by which TextField will be searched</param>
+            <returns>TextField text</returns>
+        </member>
+        <member name="M:WatiNSahi.WatiNSahiTest.GetText(System.String)">
+            <summary>
+            Gets TextField text using Browser as a IElementContainer
+            </summary>
+            <param name="textFieldIdOrNameOrValue">ID/Name/Value by which TextField will be searched</param>
+            <returns>TextField text</returns>
+        </member>
+        <member name="M:WatiNSahi.WatiNSahiTest.OpenNewBrowser(System.String)">
+            <summary>
+            Open New IE Browser with given url
+            </summary>
+            <param name="url"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WatiNSahi.WatiNSahiTest.WaitForAsyncPostbackComplete(System.Int32)">
+            <summary>
+            Wait for Async Post Back Complete
+            </summary>
+            <param name="timeout"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WatiNSahi.WatiNSahiTest.WaitForJQueryAjaxRequest">
+            <summary>
+            Wait for JQuery Ajax Request
+            </summary>
+        </member>
+        <member name="M:WatiNSahi.WatiNSahiTest._button(System.String)">
+            <summary>
+            Find button with given text.
+            </summary>
+            <param name="nameOrIdOrTextOrLabelTextOrValue"></param>
+            <returns>This function returns the element found.</returns>
+        </member>
+        <member name="M:WatiNSahi.WatiNSahiTest._textbox(System.String)">
+            <summary>
+            Find textbox with the given name or id
+            </summary>
+            <param name="nameOrId"></param>
+            <returns>This function returns the element found.</returns>
+            
+        </member>
+        <member name="M:WatiNSahi.WatiNSahiTest._password(System.String)">
+            <summary>
+            Find password field with the given name or id.
+            </summary>
+            <param name="nameOrId"></param>
+            <returns>This function returns the element found.</returns>
+        </member>
+        <member name="M:WatiNSahi.WatiNSahiTest._listItem(System.String)">
+            <summary>
+            Find List Item with the given class name or text.
+            </summary>
+            <param name="nameOrIdOrTextOrLabelTextOrClassNameOrTitle"></param>
+            <returns>This function returns the element found.</returns>
+        </member>
+        <member name="M:WatiNSahi.WatiNSahiTest._navigateTo(System.String)">
+            <summary>
+            To navigate to given url.
+            </summary>
+            <param name="url"></param>
+        </member>
+        <member name="M:WatiNSahi.WatiNSahiTest._click(WatiN.Core.Element)">
+            <summary>
+            Click on the given element
+            </summary>
+            <param name="elm"></param>
+        </member>
+        <member name="M:WatiNSahi.WatiNSahiTest._click_no_wait(WatiN.Core.Element)">
+            <summary>
+            Click on the given element and dont wait for action to complete.
+            </summary>
+            <param name="elm"></param>
+        </member>
+        <member name="M:WatiNSahi.WatiNSahiTest._mouseOver(WatiN.Core.Element)">
+            <summary>
+            Fire Mouse Over Event on the given Element
+            </summary>
+            <param name="elm"></param>
+        </member>
+        <member name="M:WatiNSahi.WatiNSahiTest._setValue(WatiN.Core.Element,System.String)">
+            <summary>
+            Set a given value for the given element.
+            </summary>
+            <param name="elm"></param>
+            <param name="val"></param>
+        </member>
+        <member name="M:WatiNSahi.WatiNSahiTest._close">
+            <summary>
+            Close the browser.
+            </summary>
+        </member>
+        <member name="M:WatiNSahi.WatiNSahiTest._e_get_table_attributes(WatiN.Core.Element)">
+            <summary>
+            Get ENOVIA specific table row column attributes for an element.
+            </summary>
+            <param name="elm"></param>
+            <returns>An array containing rmbrow, rownumber, position and id respectively.</returns>
+        </member>
+        <member name="M:WatiNSahi.WatiNSahiTest._print_attributes_values(WatiN.Core.Element,System.String[])">
+            <summary>
+            Print values for given array of attributes.
+            </summary>
+            <param name="elm"></param>
+            <param name="vals"></param>
+            <example>
+            Create an array of attributes and pass it to the function.
+            <code>
+            var attrs = new string[] { "name", "value", "text", "id", "class" };
+            _print_attributes_values(_textbox("login_password"), attrs);
+            </code>
+            </example>
+        </member>
+        <member name="F:WatiNSahi.WatiNSahiTest.browserName">
+            <summary>
+            Set the browser type to replay the test case.
+            Declare the browserType before calling _navigateTo(url); .
+            Takes string with supported values as "firefox" or "ie".
+            Value for Chrome Browser "chrome" is not implemented yet.
+            </summary>
+            <example>browserType="firefox"</example>
+        </member>
+        <member name="M:WatiNSahi.WatiNSahiTest._wait(System.Int32)">
+            <summary>
+            Wait for given milli seconds
+            </summary>
+            <param name="milliSeconds"></param>
+        </member>
+        <member name="M:WatiNSahi.WatiNSahiTest._wait_for_complete">
+            <summary>
+            Explicit wait for complete.
+            This will wait for 90 sec timeout.
+            </summary>
+        </member>
+        <member name="M:WatiNSahi.WatiNSahiTest._popup(System.String)">
+            
+            @return window
+        </member>
+        <member name="P:WatiNSahi.WatiNSahiTest.CurrentBrowser">
+            <summary>
+            Current Browser Instance
+            </summary>
+        </member>
+    </members>
+</doc>

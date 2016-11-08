@@ -1,0 +1,46 @@
+D:\Project Source\MobiClick\MobiClick\bin\Debug\MobiClick.exe
+D:\Project Source\MobiClick\MobiClick\bin\Debug\MobiClick.pdb
+D:\Project Source\MobiClick\MobiClick\obj\x86\Debug\MobiClick.frmKeyWordRegister.resources
+D:\Project Source\MobiClick\MobiClick\obj\x86\Debug\MobiClick.frmMain.resources
+D:\Project Source\MobiClick\MobiClick\obj\x86\Debug\MobiClick.Properties.Resources.resources
+D:\Project Source\MobiClick\MobiClick\obj\x86\Debug\MobiClick.exe
+D:\Project Source\MobiClick\MobiClick\obj\x86\Debug\MobiClick.pdb
+D:\Project Source\MobiClick\MobiClick\obj\x86\Debug\MobiClick.frmLogin.resources
+D:\Project Source\MobiClick\MobiClick\obj\x86\Debug\MobiClick.frmUserRegister.resources
+D:\Project Source\MobiClick\MobiClick\obj\x86\Debug\MobiClick.frmAboutBox.resources
+D:\Project Source\MobiClick\MobiClick\obj\x86\Debug\MobiClick.frmProxyConfig.resources
+D:\Project Source\MobiClick\MobiClick\bin\Debug\DBHelper.dll
+D:\Project Source\MobiClick\MobiClick\bin\Debug\DBHelper.pdb
+D:\Project Source\MobiClick\MobiClick\obj\x86\Debug\MobiClick.frmKeywrodBulk.resources
+D:\Project Source\MobiClick\MobiClick\obj\x86\Debug\MobiClick.frmPasswordChange.resources
+D:\Project Source\MobiClick\MobiClick\obj\x86\Debug\MobiClick.frmWebBrowser.resources
+D:\Project Source\MobiClick\MobiClick\bin\Debug\Interop.SHDocVw.dll
+D:\Project Source\MobiClick\MobiClick\obj\x86\Debug\Interop.SHDocVw.dll
+D:\Project Source\MobiClick\MobiClick\obj\x86\Debug\MobiClick.csproj.ResolveComReference.cache
+D:\Project Source\MobiClick\MobiClick\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project Source\MobiClick\MobiClick\obj\x86\Debug\ResGen.read.1.tlog
+D:\Project Source\MobiClick\MobiClick\obj\x86\Debug\ResGen.write.1.tlog
+D:\Project Source\MobiClick\MobiClick\bin\Debug\WebDriver.Support.pdb
+D:\MobiClick\MobiClick\bin\Debug\MobiClick.exe.config
+D:\MobiClick\MobiClick\bin\Debug\MobiClick.exe
+D:\MobiClick\MobiClick\bin\Debug\MobiClick.pdb
+D:\MobiClick\MobiClick\bin\Debug\DBHelper.dll
+D:\MobiClick\MobiClick\bin\Debug\DBHelper.pdb
+D:\MobiClick\MobiClick\bin\Debug\WebDriver.Support.pdb
+D:\MobiClick\MobiClick\obj\x86\Debug\MobiClick.csprojResolveAssemblyReference.cache
+D:\MobiClick\MobiClick\obj\x86\Debug\MobiClick.frmAboutBox.resources
+D:\MobiClick\MobiClick\obj\x86\Debug\MobiClick.frmKeyWordRegister.resources
+D:\MobiClick\MobiClick\obj\x86\Debug\MobiClick.frmKeywrodBulk.resources
+D:\MobiClick\MobiClick\obj\x86\Debug\MobiClick.frmLogin.resources
+D:\MobiClick\MobiClick\obj\x86\Debug\MobiClick.frmMain.resources
+D:\MobiClick\MobiClick\obj\x86\Debug\MobiClick.frmPasswordChange.resources
+D:\MobiClick\MobiClick\obj\x86\Debug\MobiClick.frmProxyConfig.resources
+D:\MobiClick\MobiClick\obj\x86\Debug\MobiClick.frmUserRegister.resources
+D:\MobiClick\MobiClick\obj\x86\Debug\MobiClick.frmWebBrowser.resources
+D:\MobiClick\MobiClick\obj\x86\Debug\MobiClick.Properties.Resources.resources
+D:\MobiClick\MobiClick\obj\x86\Debug\MobiClick.csproj.GenerateResource.Cache
+D:\MobiClick\MobiClick\obj\x86\Debug\MobiClick.exe
+D:\MobiClick\MobiClick\obj\x86\Debug\MobiClick.pdb
+D:\01.woobinsoft project\.net project\MobiClick\bin\Debug\MobiClick.exe.config
+D:\01.woobinsoft project\.net project\MobiClick\obj\x86\Debug\MobiClick.exe
+D:\01.woobinsoft project\.net project\MobiClick\obj\x86\Debug\MobiClick.pdb

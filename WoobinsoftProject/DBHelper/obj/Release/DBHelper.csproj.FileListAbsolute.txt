@@ -1,0 +1,14 @@
+D:\KT_참조\KTGroup참조\DBHelper.dll
+D:\KT_참조\KTGroup참조\DBHelper.pdb
+D:\Project Source\MobiClick\DBHelper\obj\Release\DBHelper.Controls.SQLConnectionSetupControl.resources
+D:\Project Source\MobiClick\DBHelper\obj\Release\DBHelper.dll
+D:\Project Source\MobiClick\DBHelper\obj\Release\DBHelper.pdb
+D:\Project Source\MobiClick\DBHelper\obj\Release\ResolveAssemblyReference.cache
+D:\Project Source\MobiClick\DBHelper\obj\Release\ResGen.read.1.tlog
+D:\Project Source\MobiClick\DBHelper\obj\Release\ResGen.write.1.tlog
+D:\MobiClick\DBHelper\obj\Release\DBHelper.Controls.SQLConnectionSetupControl.resources
+D:\MobiClick\DBHelper\obj\Release\DBHelper.dll
+D:\MobiClick\DBHelper\obj\Release\DBHelper.pdb
+D:\MobiClick\DBHelper\obj\Release\ResolveAssemblyReference.cache
+D:\MobiClick\DBHelper\obj\Release\ResGen.read.1.tlog
+D:\MobiClick\DBHelper\obj\Release\ResGen.write.1.tlog

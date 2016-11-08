@@ -1,0 +1,7 @@
+D:\KT_Group_New\KT_ClassLib\Kaoni.ezStandard.ezData\bin\Debug\Kaoni.ezStandard.ezData.dll
+D:\KT_Group_New\KT_ClassLib\Kaoni.ezStandard.ezData\bin\Debug\Kaoni.ezStandard.ezData.pdb
+D:\KT_Group_New\KT_ClassLib\Kaoni.ezStandard.ezData\obj\Debug\ResolveAssemblyReference.cache
+D:\KT_Group_New\KT_ClassLib\Kaoni.ezStandard.ezData\obj\Debug\Kaoni.ezStandard.ezData.Controls.SQLConnectionSetupControl.resources
+D:\KT_Group_New\KT_ClassLib\Kaoni.ezStandard.ezData\obj\Debug\Kaoni.ezStandard.ezData.csproj.GenerateResource.Cache
+D:\KT_Group_New\KT_ClassLib\Kaoni.ezStandard.ezData\obj\Debug\Kaoni.ezStandard.ezData.dll
+D:\KT_Group_New\KT_ClassLib\Kaoni.ezStandard.ezData\obj\Debug\Kaoni.ezStandard.ezData.pdb

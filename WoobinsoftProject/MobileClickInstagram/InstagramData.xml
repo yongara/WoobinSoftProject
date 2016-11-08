@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DATA>
+  <KEYWORD>
+    <ROW>
+      <VALUE>일산맛집</VALUE>
+    </ROW>    
+  </KEYWORD>
+  <USER>
+    <ROW>
+      <ID>yongara73</ID>
+      <PASS>tkagowjs1!</PASS>
+    </ROW>    
+  </USER>
+  <SPAM>
+    <ROW>
+      <VALUE>대출</VALUE>
+    </ROW>
+  </SPAM>
+  <UNFOLLOW>
+    <ROW>
+      <VALUE>yongara3333</VALUE>
+    </ROW>
+  </UNFOLLOW>
+  <REPLY>
+    <ROW>
+      <VALUE>맛있겠어요</VALUE>
+    </ROW>
+  </REPLY>
+</DATA>

@@ -1,0 +1,29 @@
+D:\Project Source\MobiClick\MobiClickLauncher\bin\Release\MobiClickLauncher.exe
+D:\Project Source\MobiClick\MobiClickLauncher\bin\Release\MobiClickLauncher.pdb
+D:\Project Source\MobiClick\MobiClickLauncher\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Project Source\MobiClick\MobiClickLauncher\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Project Source\MobiClick\MobiClickLauncher\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Project Source\MobiClick\MobiClickLauncher\obj\x86\Release\MobiClickLauncher.exe
+D:\Project Source\MobiClick\MobiClickLauncher\obj\x86\Release\MobiClickLauncher.pdb
+D:\Project Source\MobiClick\MobiClickLauncher\obj\x86\Release\MobiClick.frmLogin.resources
+D:\Project Source\MobiClick\MobiClickLauncher\obj\x86\Release\MobiClick.frmUserRegister.resources
+D:\Project Source\MobiClick\MobiClickLauncher\obj\x86\Release\MobiClick.frmMain.resources
+D:\Project Source\MobiClick\MobiClickLauncher\obj\x86\Release\MobiClick.Properties.Resources.resources
+D:\Project Source\MobiClick\MobiClickLauncher\obj\x86\Release\ResGen.read.1.tlog
+D:\Project Source\MobiClick\MobiClickLauncher\obj\x86\Release\ResGen.write.1.tlog
+D:\Project Source\MobiClick\MobiClickLauncher\bin\Release\MobiClickLauncher.exe.config
+D:\Project Source\MobiClick\MobiClickLauncher\bin\Release\DBHelper.dll
+D:\Project Source\MobiClick\MobiClickLauncher\bin\Release\DBHelper.pdb
+D:\MobiClick\MobiClickLauncher\bin\Release\MobiClickLauncher.exe.config
+D:\MobiClick\MobiClickLauncher\bin\Release\MobiClickLauncher.exe
+D:\MobiClick\MobiClickLauncher\bin\Release\MobiClickLauncher.pdb
+D:\MobiClick\MobiClickLauncher\bin\Release\DBHelper.dll
+D:\MobiClick\MobiClickLauncher\bin\Release\DBHelper.pdb
+D:\MobiClick\MobiClickLauncher\obj\x86\Release\MobiClickLauncher.csprojResolveAssemblyReference.cache
+D:\MobiClick\MobiClickLauncher\obj\x86\Release\MobiClick.frmLogin.resources
+D:\MobiClick\MobiClickLauncher\obj\x86\Release\MobiClick.frmMain.resources
+D:\MobiClick\MobiClickLauncher\obj\x86\Release\MobiClick.frmUserRegister.resources
+D:\MobiClick\MobiClickLauncher\obj\x86\Release\MobiClick.Properties.Resources.resources
+D:\MobiClick\MobiClickLauncher\obj\x86\Release\MobiClickLauncher.csproj.GenerateResource.Cache
+D:\MobiClick\MobiClickLauncher\obj\x86\Release\MobiClickLauncher.exe
+D:\MobiClick\MobiClickLauncher\obj\x86\Release\MobiClickLauncher.pdb

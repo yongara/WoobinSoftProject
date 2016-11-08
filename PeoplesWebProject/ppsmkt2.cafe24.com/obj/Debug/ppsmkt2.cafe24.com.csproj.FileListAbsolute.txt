@@ -1,0 +1,6 @@
+E:\PeoplesWebProject\WebSample1\ppsmkt2.cafe24.com\bin\ppsmkt2.cafe24.com.dll
+E:\PeoplesWebProject\WebSample1\ppsmkt2.cafe24.com\bin\ppsmkt2.cafe24.com.pdb
+E:\PeoplesWebProject\WebSample1\ppsmkt2.cafe24.com\bin\SQLHelper.pdb
+E:\PeoplesWebProject\WebSample1\ppsmkt2.cafe24.com\obj\Debug\ppsmkt2.cafe24.com.csprojResolveAssemblyReference.cache
+E:\PeoplesWebProject\WebSample1\ppsmkt2.cafe24.com\obj\Debug\ppsmkt2.cafe24.com.dll
+E:\PeoplesWebProject\WebSample1\ppsmkt2.cafe24.com\obj\Debug\ppsmkt2.cafe24.com.pdb

@@ -1,0 +1,50 @@
+D:\Project Source\MobiClick\MobiClick\bin\Release\MobiClick.exe
+D:\Project Source\MobiClick\MobiClick\bin\Release\MobiClick.pdb
+D:\Project Source\MobiClick\MobiClick\bin\Release\DBHelper.dll
+D:\Project Source\MobiClick\MobiClick\bin\Release\Selenium.WebDriverBackedSelenium.dll
+D:\Project Source\MobiClick\MobiClick\bin\Release\ThoughtWorks.Selenium.Core.dll
+D:\Project Source\MobiClick\MobiClick\bin\Release\WebDriver.dll
+D:\Project Source\MobiClick\MobiClick\bin\Release\WebDriver.Support.dll
+D:\Project Source\MobiClick\MobiClick\obj\x86\Release\MobiClick.frmAboutBox.resources
+D:\Project Source\MobiClick\MobiClick\obj\x86\Release\MobiClick.frmKeyWordRegister.resources
+D:\Project Source\MobiClick\MobiClick\obj\x86\Release\MobiClick.frmLogin.resources
+D:\Project Source\MobiClick\MobiClick\obj\x86\Release\MobiClick.frmMain.resources
+D:\Project Source\MobiClick\MobiClick\obj\x86\Release\MobiClick.frmProxyConfig.resources
+D:\Project Source\MobiClick\MobiClick\obj\x86\Release\MobiClick.frmUserRegister.resources
+D:\Project Source\MobiClick\MobiClick\obj\x86\Release\MobiClick.Properties.Resources.resources
+D:\Project Source\MobiClick\MobiClick\obj\x86\Release\MobiClick.exe
+D:\Project Source\MobiClick\MobiClick\obj\x86\Release\MobiClick.pdb
+D:\Project Source\MobiClick\MobiClick\obj\x86\Release\MobiClick.frmKeywrodBulk.resources
+D:\Project Source\MobiClick\MobiClick\bin\Release\DBHelper.pdb
+D:\Project Source\MobiClick\MobiClick\obj\x86\Release\MobiClick.frmPasswordChange.resources
+D:\Project Source\MobiClick\MobiClick\obj\x86\Release\MobiClick.frmWebBrowser.resources
+D:\Project Source\MobiClick\MobiClick\bin\Release\WebDriver.Support.pdb
+D:\Project Source\MobiClick\MobiClick\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Project Source\MobiClick\MobiClick\bin\Release\MobiClick.exe.config
+D:\Project Source\MobiClick\MobiClick\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Project Source\MobiClick\MobiClick\obj\x86\Release\GenerateResource.write.1.tlog
+D:\MobiClick\MobiClick\bin\Release\MobiClick.exe.config
+D:\MobiClick\MobiClick\obj\x86\Release\MobiClick.exe
+D:\MobiClick\MobiClick\obj\x86\Release\MobiClick.pdb
+D:\MobiClick\MobiClick\bin\Release\MobiClick.exe
+D:\MobiClick\MobiClick\bin\Release\MobiClick.pdb
+D:\MobiClick\MobiClick\bin\Release\DBHelper.dll
+D:\MobiClick\MobiClick\bin\Release\Selenium.WebDriverBackedSelenium.dll
+D:\MobiClick\MobiClick\bin\Release\ThoughtWorks.Selenium.Core.dll
+D:\MobiClick\MobiClick\bin\Release\WebDriver.dll
+D:\MobiClick\MobiClick\bin\Release\WebDriver.Support.dll
+D:\MobiClick\MobiClick\bin\Release\DBHelper.pdb
+D:\MobiClick\MobiClick\bin\Release\WebDriver.Support.pdb
+D:\MobiClick\MobiClick\obj\x86\Release\MobiClick.frmAboutBox.resources
+D:\MobiClick\MobiClick\obj\x86\Release\MobiClick.frmKeyWordRegister.resources
+D:\MobiClick\MobiClick\obj\x86\Release\MobiClick.frmKeywrodBulk.resources
+D:\MobiClick\MobiClick\obj\x86\Release\MobiClick.frmLogin.resources
+D:\MobiClick\MobiClick\obj\x86\Release\MobiClick.frmMain.resources
+D:\MobiClick\MobiClick\obj\x86\Release\MobiClick.frmPasswordChange.resources
+D:\MobiClick\MobiClick\obj\x86\Release\MobiClick.frmProxyConfig.resources
+D:\MobiClick\MobiClick\obj\x86\Release\MobiClick.frmUserRegister.resources
+D:\MobiClick\MobiClick\obj\x86\Release\MobiClick.frmWebBrowser.resources
+D:\MobiClick\MobiClick\obj\x86\Release\MobiClick.Properties.Resources.resources
+D:\MobiClick\MobiClick\obj\x86\Release\ResolveAssemblyReference.cache
+D:\MobiClick\MobiClick\obj\x86\Release\GenerateResource.read.1.tlog
+D:\MobiClick\MobiClick\obj\x86\Release\GenerateResource.write.1.tlog

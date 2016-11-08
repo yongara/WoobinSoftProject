@@ -1,0 +1,6 @@
+E:\PeoplesWebProject\SQLHelper\bin\Debug\SQLHelper.dll
+E:\PeoplesWebProject\SQLHelper\bin\Debug\SQLHelper.pdb
+E:\PeoplesWebProject\SQLHelper\obj\Debug\UCGuideSQLHelper.Controls.SQLConnectionSetupControl.resources
+E:\PeoplesWebProject\SQLHelper\obj\Debug\SQLHelper.csproj.GenerateResource.Cache
+E:\PeoplesWebProject\SQLHelper\obj\Debug\SQLHelper.dll
+E:\PeoplesWebProject\SQLHelper\obj\Debug\SQLHelper.pdb

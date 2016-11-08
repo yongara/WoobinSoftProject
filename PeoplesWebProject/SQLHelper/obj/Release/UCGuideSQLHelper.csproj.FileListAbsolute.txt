@@ -1,0 +1,9 @@
+D:\KT_참조\KT참조\UCGuideSQLHelper.dll
+D:\KT_참조\KT참조\UCGuideSQLHelper.pdb
+D:\KT_TestProject\테스트파일\UCGuideSQLHelper\obj\Release\ResolveAssemblyReference.cache
+D:\KT_TestProject\테스트파일\UCGuideSQLHelper\obj\Release\UCGuideSQLHelper.Controls.SQLConnectionSetupControl.resources
+D:\KT_TestProject\테스트파일\UCGuideSQLHelper\obj\Release\UCGuideSQLHelper.csproj.GenerateResource.Cache
+D:\KT_TestProject\테스트파일\UCGuideSQLHelper\obj\Release\UCGuideSQLHelper.dll
+D:\KT_TestProject\테스트파일\UCGuideSQLHelper\obj\Release\UCGuideSQLHelper.pdb
+D:\KT_TestProject\테스트파일\UCGuideSQLHelper\bin\Release\UCGuideSQLHelper.dll
+D:\KT_TestProject\테스트파일\UCGuideSQLHelper\bin\Release\UCGuideSQLHelper.pdb

@@ -1,0 +1,12 @@
+[ 오전 11:18:50 : 252 ]AutoJob_BackGroundWorker2
+스레드가 중단되었습니다.
+[ 오전 11:21:02 : 626 ]AutoJob_BackGroundWorker2
+Unable to find element with xpath == //a[contains(@href,'page=12&&start=161&display=15')]
+[ 오전 11:23:04 : 509 ]AutoJob_BackGroundWorker2
+Unable to find element with xpath == //a[contains(@href,'page=3&&start=26&display=15')]
+[ 오전 11:26:15 : 996 ]AutoJob_BackGroundWorker2
+Unable to find element with xpath == //a[contains(@href,'page=12&&start=161&display=15')]
+[ 오전 11:26:28 : 795 ]AutoJob_BackGroundWorker2
+스레드가 중단되었습니다.
+[ 오전 11:28:23 : 611 ]AutoJob_BackGroundWorker
+스레드가 중단되었습니다.

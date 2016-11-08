@@ -1,0 +1,60 @@
+[ 오후 1:20:48 : 738 ]AutoJob_BackGroundWorker2
+스레드가 중단되었습니다.
+[ 오후 1:22:31 : 904 ]AutoJob_BackGroundWorker2
+Unable to find element with id == query
+[ 오후 1:22:42 : 537 ]AutoJob_BackGroundWorker2
+스레드가 중단되었습니다.
+[ 오후 1:23:12 : 346 ]AutoJob_BackGroundWorker2
+Unable to find element with id == query
+[ 오후 1:23:25 : 612 ]AutoJob_BackGroundWorker2
+Unable to find element with id == query
+[ 오후 1:23:28 : 394 ]AutoJob_BackGroundWorker2
+스레드가 중단되었습니다.
+[ 오후 1:43:37 : 815 ]AutoJob_BackGroundWorker2
+Unable to find element with id == query
+[ 오후 1:43:54 : 640 ]AutoJob_BackGroundWorker2
+Unable to find element with id == query
+[ 오후 1:43:57 : 296 ]AutoJob_BackGroundWorker2
+스레드가 중단되었습니다.
+[ 오후 2:33:51 : 908 ]AutoJob_BackGroundWorker2
+Unable to find element with class name == sch_submit
+[ 오후 2:34:25 : 44 ]AutoJob_BackGroundWorker2
+Unable to find element with id == query
+[ 오후 2:34:28 : 808 ]AutoJob_BackGroundWorker2
+스레드가 중단되었습니다.
+[ 오후 2:39:46 : 55 ]AutoJob_BackGroundWorker2
+Unable to find element with id == query
+[ 오후 2:40:00 : 649 ]AutoJob_BackGroundWorker2
+Unable to find element with id == query
+[ 오후 2:40:03 : 257 ]AutoJob_BackGroundWorker2
+스레드가 중단되었습니다.
+[ 오후 2:53:53 : 329 ]AutoJob_BackGroundWorker2
+Unable to find element with id == query
+[ 오후 2:54:04 : 455 ]AutoJob_BackGroundWorker2
+Unable to find element with id == query
+[ 오후 2:54:09 : 768 ]AutoJob_BackGroundWorker2
+스레드가 중단되었습니다.
+[ 오후 3:08:58 : 819 ]AutoJob_BackGroundWorker2
+Unable to find element with id == query
+[ 오후 3:09:06 : 199 ]AutoJob_BackGroundWorker2
+A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:7405/session. The status of the exception was ReceiveFailure, and the message was: 기본 연결이 닫혔습니다. 받기에서 예기치 않은 오류가 발생했습니다.
+[ 오후 3:17:15 : 68 ]AutoJob_BackGroundWorker2
+Unable to find element with id == query
+[ 오후 3:17:27 : 564 ]AutoJob_BackGroundWorker2
+Unable to find element with id == query
+[ 오후 3:17:32 : 939 ]AutoJob_BackGroundWorker2
+스레드가 중단되었습니다.
+[ 오후 3:30:47 : 881 ]AutoJob_BackGroundWorker2
+Unable to find element with id == query
+[ 오후 3:30:57 : 833 ]AutoJob_BackGroundWorker2
+Unable to find element with id == query
+[ 오후 4:41:53 : 715 ]AutoJob_BackGroundWorker2
+Unable to find element with id == query
+[ 오후 4:42:03 : 672 ]AutoJob_BackGroundWorker2
+Unable to find element with id == query
+[ 오후 4:42:06 : 559 ]AutoJob_BackGroundWorker2
+스레드가 중단되었습니다.
+[ 오후 4:48:03 : 330 ]AutoJob_BackGroundWorker2
+Unable to find element with id == query
+[ 오후 4:48:12 : 316 ]AutoJob_BackGroundWorker2
+스레드가 중단되었습니다.

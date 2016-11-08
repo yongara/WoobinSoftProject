@@ -1,0 +1,14 @@
+D:\Project Source\MobiClick\MobiClickManager\bin\Release\MobiClickManager.exe
+D:\Project Source\MobiClick\MobiClickManager\bin\Release\MobiClickManager.pdb
+D:\Project Source\MobiClick\MobiClickManager\obj\x86\Release\MobiClickManager.Properties.Resources.resources
+D:\Project Source\MobiClick\MobiClickManager\obj\x86\Release\MobiClickManager.csproj.GenerateResource.Cache
+D:\Project Source\MobiClick\MobiClickManager\obj\x86\Release\MobiClickManager.exe
+D:\Project Source\MobiClick\MobiClickManager\obj\x86\Release\MobiClickManager.pdb
+D:\Project Source\MobiClick\MobiClickManager\obj\x86\Release\MobiClickManager.frmManagerMain.resources
+D:\Project Source\MobiClick\MobiClickManager\obj\x86\Release\MobiClickManager.ucUserInfo.resources
+D:\Project Source\MobiClick\MobiClickManager\bin\Release\MobiClickManager.exe.config
+D:\Project Source\MobiClick\MobiClickManager\bin\Release\DBHelper.dll
+D:\Project Source\MobiClick\MobiClickManager\obj\x86\Release\MobiClickManager.ucProductInfo.resources
+D:\Project Source\MobiClick\MobiClickManager\obj\x86\Release\MobiClickManager.ucUserAgent.resources
+D:\Project Source\MobiClick\MobiClickManager\bin\Release\DBHelper.pdb
+D:\Project Source\MobiClick\MobiClickManager\obj\x86\Release\MobiClickManager.csprojResolveAssemblyReference.cache
